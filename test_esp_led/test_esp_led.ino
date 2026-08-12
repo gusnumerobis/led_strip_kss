@@ -1,3 +1,5 @@
+//USE THE 2.0.17 ESP32 by Espressif Ststems Board Library
+
 // Define debugging and configuration settings
 #define DEBUG_ETHERNET_WEBSERVER_PORT Serial
 #define _ETHERNET_WEBSERVER_LOGLEVEL_ 3
